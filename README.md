@@ -2,13 +2,13 @@
 
 ## Introduction
 
---
+
 
 中央大學物件導向程式設計 Project
 透過JAVA 遵循物件導向設計原則實作UML Editor
 
-Result
---
+##Result
+
 ![](https://github.com/HouHou0925/UML-Editor/blob/main/img/result.jpg)
 
 ![](https://github.com/HouHou0925/UML-Editor/blob/main/img/OO%E6%9C%9F%E6%9C%AB/oo.jpg)
