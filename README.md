@@ -9,7 +9,7 @@
 
 ## Result
 
-![](https://github.com/HouHou0925/UML-Editor/blob/main/img/result.jpg)
+![](https://github.com/HouHou0925/UML-Editor/blob/main/img/show.jpg)
 
 ![](https://github.com/HouHou0925/UML-Editor/blob/main/img/OO%E6%9C%9F%E6%9C%AB/oo.jpg)
 
